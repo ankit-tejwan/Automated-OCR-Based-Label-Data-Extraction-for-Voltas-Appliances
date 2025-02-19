@@ -27,7 +27,9 @@ The system uses **PaddleOCR** to extract key details such as **Appliance Type, B
 
 #### **Step 2: OCR Processing**
 
-https://private-user-images.githubusercontent.com/77053184/363696932-97cca04f-e1ed-4257-9fa2-f81c986a5ee4.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk5NTczNDcsIm5iZiI6MTczOTk1NzA0NywicGF0aCI6Ii83NzA1MzE4NC8zNjM2OTY5MzItOTdjY2EwNGYtZTFlZC00MjU3LTlmYTItZjgxYzk4NmE1ZWU0LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE5VDA5MjQwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkYzIzODRmNThlMzU4NDk4OWViMzU2YTMxMDQ1MzllY2Y4ZDY1YzdiNjJkMWM4MGMxOTA0YTU0YjJmN2U2MTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xatJkUjgEOCWq3GdCl6o1-8PTGAeCrOIzG9OERd2fpg
+
+![result](https://github.com/user-attachments/assets/df4fd75f-ff0a-4b06-afa5-94e8478a897d)
+
 
 - The image is **processed using PaddleOCR** to extract text.  
 - Unnecessary elements (such as other texts) are filtered out.  
