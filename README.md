@@ -44,6 +44,11 @@ The system uses **PaddleOCR** to extract key details such as **Appliance Type, B
 | **POST** | `/predict` | Accepts an image and returns extracted text in JSON |
 
 ---
+**extracted text in JSON**
+
+
+![image](https://github.com/user-attachments/assets/926d4427-d691-4add-a435-82b9cb4647a6)
+
 
 
 ---
