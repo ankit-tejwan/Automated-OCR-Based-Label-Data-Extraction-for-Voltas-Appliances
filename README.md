@@ -48,12 +48,10 @@ The system uses **PaddleOCR** to extract key details such as **Appliance Type, B
 
 ---
 
-### **📝 Installation & Usage**
-#### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/yourusername/Automated-OCR-Extraction-for-Voltas-Labels.git
-cd Automated-OCR-Extraction-for-Voltas-Labels
-```
+### **📝 Usage**
+#### **1️⃣ conda environment setup**
+conda create n voltasbeko python==3.9.18
+
 
 #### **2️⃣ Install Dependencies**
 ```bash
