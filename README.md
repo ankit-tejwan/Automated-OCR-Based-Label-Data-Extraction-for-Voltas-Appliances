@@ -19,7 +19,11 @@ The system uses **PaddleOCR** to extract key details such as **Appliance Type, B
 ### **🚀 Project Workflow**
 
 #### **Step 1: Image Acquisition**
-- The system receives ** appliance label images** from BASLER industrial machine vision camera .  
+- The system receives **Appliance label images** from BASLER industrial machine vision camera .
+- **Sample Image**
+
+  ![frame_from_api](https://github.com/user-attachments/assets/c9b54c23-6407-4676-a025-359ccab9db84)
+
 
 #### **Step 2: OCR Processing**
 - The image is **processed using PaddleOCR** to extract text.  
